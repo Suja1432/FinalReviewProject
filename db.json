@@ -1,0 +1,299 @@
+{
+  "Signup": [
+    {
+      "name": "sri",
+      "email": "sri@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "SANJAI S",
+      "email": "sanjai@gmail.com",
+      "password": "145",
+      "id": 5
+    },
+    {
+      "name": "Sriram R",
+      "email": "sriram.rajkumart@gmail.com",
+      "password": "Sriramraj@484",
+      "id": 6
+    },
+    {
+      "name": "Sriram R",
+      "email": "sriram.rajkumart@gmail.com",
+      "password": "Sriramraj@484",
+      "id": 7
+    },
+    {
+      "name": "Sriram R",
+      "email": "sriram.rajkumart@gmail.com",
+      "password": "Sriramraj@484",
+      "id": 8
+    },
+    {
+      "name": "Sriram R",
+      "email": "sriram.rajkumart@gmail.com",
+      "password": "Sriramraj@484",
+      "id": 9
+    },
+    {
+      "name": "Sriram R",
+      "email": "sriram.rajkumart@gmail.com",
+      "password": "Sriramraj@484",
+      "id": 10
+    },
+    {
+      "name": "Sriram R",
+      "email": "sriram.rajkumart@gmail.com",
+      "password": "Sriramraj@484",
+      "id": 11
+    },
+    {
+      "name": "Sriram R",
+      "email": "sriram.rajkumart@gmail.com",
+      "password": "Sriramraj@484",
+      "id": 12
+    },
+    {
+      "name": "Sriram R",
+      "email": "sriram.rajkumart@gmail.com",
+      "password": "Sriramraj@484",
+      "id": 13
+    },
+    {
+      "name": "bgyup iunp",
+      "email": "sriram.rajkumart@gmail.com",
+      "password": "Sriramraj@484",
+      "id": 14
+    },
+    {
+      "name": "fiio j i",
+      "email": "sriram.rajkumart@gmail.com",
+      "password": "Sriramraj@484",
+      "id": 15
+    },
+    {
+      "name": "Sriram R",
+      "email": "sriram.rajkumart@gmail.com",
+      "password": "Sriramraj@484",
+      "id": 16
+    },
+    {
+      "name": "Sreejha",
+      "email": "sreejhakumaravel@gmail.com",
+      "password": "1234567890",
+      "id": 17
+    },
+    {
+      "name": "Sriram R",
+      "email": "sriram.rajkumart@gmail.com",
+      "password": "Sriramraj@484",
+      "id": 18
+    }
+  ],
+  "Fiction": [
+    {
+      "id": 1,
+      "img": "https://image.tmdb.org/t/p/original/ujxAgK1rJBftJ3PJVjtC0FW8HAf.jpg",
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "description": "Love is the best way to defeat your enemies.",
+      "review": "Anna Karenina is novel by Leo Tolstoy, first published in 1877. The novel follows the story of Anna Karenina, who is trying to escape an unhappy marriage to her older, civil servant husband and pursue a love affair with a young and dashing count, Alexei Vronsky. The novel is a sweeping family drama exploring Tolstoy’s interest in marriage, family, agrarian politics, and gender roles1. The story is set in Imperial Russia, and begins with Anna Karenina traveling from Saint Petersburg to Moscow to save the marriage of her brother Prince Oblonsky "
+    },
+    {
+      "id": 2,
+      "img": "https://4.bp.blogspot.com/-RAUHHHow0mQ/XC0_acodKFI/AAAAAAAAmLg/3-sF-xYKHK0Bimnk62-ZpOoCu2yrdmFzQCLcBGAs/s1600/Hamlet.png",
+      "title": "Hamlet",
+      "author": "William Shakespeare",
+      "description": "To be,or not To be ,is yhe question.",
+      "review": "The ghost of King of Denmark tells his son Hamlet to avenge his murder by killing the new king, Hamlet's uncle. Hamlet feigns madness, contemplates life and death, and seeks revenge. His uncle, fearing for his life, also devises plots to kill Hamlet. The play ends with a duel, during which the King, Queen, Hamlet's opponent and Hamlet himself are all killed. "
+    },
+    {
+      "id": 3,
+      "img": "https://tse3.mm.bing.net/th/id/OIP.pxu2iPwSoa4YbvULydQSgAHaLX?rs=1&pid=ImgDetMain",
+      "title": "Lolita",
+      "author": "Vladimir Putin",
+      "description": "I was Fresh girl and look what you have done to me.",
+      "review": "In the novel’s foreword, the fictional John Ray, Jr., Ph.D., explains the strange story that will follow. According to Ray, he received the manuscript, entitled Lolita, or the Confession of White Widowed Male, from the author’s lawyer. The author himself, known by the pseudonym of Humbert Humbert (or H. H.), died in jail of coronary thrombosis while awaiting a trial. Ray asserts that while the author’s actions are despicable, his writing remains beautiful and persuasive. He also indicates that the novel will become a favorite in psychiatric circles as well as encourage parents to raise better children in a better world."
+    },
+    {
+      "id": 4,
+      "img": "https://m.media-amazon.com/images/I/61F0WRkMnIL.AC_UY327_FMwebp_QL65.jpg",
+      "title": "Emma",
+      "author": "Jane Austan",
+      "description": "I may have lost my heart, but not my self-control.",
+      "review": "The force of the verb seemed is pointed. Emma is indeed beautiful, wealthy, and smart. However, she is also spoiled, meddlesome, and self-deluded. Although she is convinced she will never marry, Emma believes she is an excellent matchmaker. As she tells her father and her dear friend Mr. Knightley, she practically arranged the recent marriage between her former governess, Miss Taylor, and the widower Mr. Weston. (She did, after all, introduce them.) After such a clear “success,” Emma is determined to make another match. This time, she has set her sights on the village vicar, Mr. Elton. Both Emma’s father and Mr. Knightley caution her against interfering, but they ultimately fail to dissuade her. "
+    },
+    {
+      "id": 5,
+      "img": "https://tse4.mm.bing.net/th/id/OIP.zwlOPpvfSizTwbSwT_BDHAHaLG?w=1000&h=1499&rs=1&pid=ImgDetMain",
+      "title": "Dubliners",
+      "author": "James Joyce",
+      "description": "Remember it's a sin to kill a mocking bird coming to.",
+      "review": "Dubliners is a collection of fifteen short stories by James Joyce, first published in 191412. The stories are structured to mimic a human life, from childhood to old age and death2. The stories also deal with Irish political and social issues in the early 20th century12. The stories are centered on the concept of epiphany, or a sudden revelation of the true nature of a situation or a person2. An example of this is the story An Encounter, where a boy encounters a strange old man who makes sexual advances to him3."
+    }
+  ],
+  "Romance": [
+    {
+      "id": 1,
+      "img": "https://th.bing.com/th/id/R.b4366551f26e944e6ff347cc908f640c?rik=mrh6mhQeO5t0BQ&riu=http%3a%2f%2fmedia.hdp.hbgusa.com%2fcoverimages%2f9780316192699%2f&ehk=Ig1mg5r9BD%2fEL0Gy0c3T3z651toW%2f0j8ptgWvtjusEA%3d&risl=&pid=ImgRaw&r=0",
+      "title": "Twilight",
+      "author": "S.Mayer",
+      "description": "You Love Him, I Love You More.",
+      "review": "Twilight is a young adult adventure-romance novel by Stephenie Meyer1234. It is the first book in the Twilight series24, and follows seventeen-year-old Bella Swan, who moves from Phoenix, Arizona, to Forks, Washington. There, she meets and falls in love with Edward Cullen, a 103-year-old vampire frozen in his 17-year-old body. Their relationship puts Bella in danger from other vampires and forces her to make a life-changing choice"
+    },
+    {
+      "id": 2,
+      "img": "https://i.thenile.io/r1000/9781107615403.jpg?r=5eab907a02efe",
+      "title": "Romeo Juliet",
+      "author": "Shakespeare",
+      "description": "Thus from my lips, by yours, my sin purged.”.",
+      "review": "Romeo and Juliet is a tragic love story by Shakespeare12. It is set in medieval Verona, Italy, where two young lovers, Romeo and Juliet, belong to rival families, the Montagues and the Capulets. They fall in love at first sight, but their families' feud prevents them from being together. They secretly marry, but their happiness is short-lived, as they both kill themselves after a series of misunderstandings and misfortunes. Their deaths end the conflict between their families.  "
+    },
+    {
+      "id": 3,
+      "img": "https://tse2.mm.bing.net/th/id/OIP.tN2ZQqhmr9pkuJAVMaRrUwHaJ3?w=202&h=269&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "title": "Twisted Love",
+      "author": "Ana Haung",
+      "description": "Tell me who or what i need to kill.",
+      "review": "Twisted Love is a brother’s best friend/opposites attract romance1that follows the lives of Ava Chen and Alex Volkov, two people who have traumas of their pasts21. Their love is forbidden and dangerous1, and it unleashes secrets that could destroy them both1. Twisted Love is book one in the Twisted series1, which is a new adult romance series with alpha males and strong heroines3. The series also includes elements of suspense and some dark subject matters "
+    },
+    {
+      "id": 4,
+      "img": "https://tse3.mm.bing.net/th/id/OIP.Cm8IYxn1nAy0GDWDGpS8qAAAAA?rs=1&pid=ImgDetMain",
+      "title": "R,W&RoyalBlue",
+      "author": "Casey",
+      "description": "I felt red ,White and Blue all over.",
+      "review": "Red, White & Royal Blue is a 2019 LGBT romance novel by Casey McQuiston123. It is about the gay romance between Alex Claremont-Diaz, the First Son of the United States, and Prince Henry, a potential heir to the British throne1345. The novel explores the themes of honoring one’s true nature, balancing public duty and private desires, and the value of independence and diversity4. After an altercation at a royal wedding, Alex and Henry have to pretend to be friends to avoid a diplomatic and media crisis35. They eventually declare their feelings openly and have sex for the first time.      "
+    },
+    {
+      "id": 5,
+      "img": "https://flxt.tmsimg.com/assets/p10426921_b_v13_al.jpg",
+      "title": "Outlander",
+      "author": "Diana",
+      "description": "Don't be afraid,there are two of us now.",
+      "review": "Outlander is a historical fantasy novel by Diana Gabaldon12. It follows Claire Randall, a nurse who travels through time from 1945 to 1740s Scotland12. There, she meets and falls in love with Jamie Fraser, a Scottish warrior12. The novel explores themes of love, loyalty, gender, and power in a historical setting1. Outlander is the first in a series of novels that span different genres and time periods."
+    }
+  ],
+  "Thriller": [
+    {
+      "id": 1,
+      "img": "https://tse3.mm.bing.net/th/id/OIP.o3PGWhW6jiTn8yZS4ABgDAHaLH?w=202&h=303&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "title": "A Time To Kill",
+      "author": "Grisham",
+      "description": "It was a book to kill time who like to better dead.",
+      "review": "A Time to Kill is a novel by John Grisham and a film based on it. It is a legal drama about a black father who kills two white men who raped his daughter12345. He hires a young white lawyer to defend him in a racist town where the jury is all-white235. The trial sparks a violent conflict between the black community and the Ku Klux Klan45. "
+    },
+    {
+      "id": 2,
+      "img": "https://tse2.mm.bing.net/th/id/OIP.XIzITReMlMZpps1REf4jjAAAAA?w=196&h=317&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "title": "The Shining",
+      "author": "Stephen",
+      "description": "This inhuman place makes Human Monsters.",
+      "review": "The Shining is a horror novel by Stephen King, published in 1977123. It tells the story of the Torrance family, who stay at the haunted Overlook Hotel in the Colorado Rockies during the winter124. Jack Torrance, a struggling writer and recovering alcoholic, becomes the caretaker of the hotel45. His son Danny has psychic abilities that allow him to see the hotel's past horrors4. The supernatural forces in the hotel affect Jack's sanity and endanger his wife and son34. The novel explores themes of isolation, addiction, family, and evil. "
+    },
+    {
+      "id": 3,
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hXRyR0kfB64aj2y76JBjRSRQYOw.jpg",
+      "title": "In Cold Blood",
+      "author": "Truman Capote",
+      "description": "In cold Blood,is not Thriller at all,really!.",
+      "review": "In Cold Blood is a non-fiction novel by Truman Capote123. It tells the story of the 1959 murders of four members of the Clutter family in the small farming community of Holcomb, Kansas123. Capote learned of the quadruple murder before the killers were captured, and he traveled to Kansas to write about the crime1. The book is written as if it were a novel, complete with dialog, and is what Truman Capote referred to as New Journalism"
+    },
+    {
+      "id": 4,
+      "img": "https://tse3.mm.bing.net/th/id/OIP.--O1F5A1CwAWrrO8W5fZEQHaLU?w=202&h=308&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "title": "That Night",
+      "author": "Cecily Wolfe",
+      "description": "To forgot the night killing them a second time.",
+      "review": "That Night is a novel that follows two protagonists, Jess and Lucas, both teens who each lost a big brother in a shooting in Queens. The story picks up a year after the shooting, and their reactions and the ways their lives have changed since that terrible night couldn’t be more different1. Other summaries found in the search results are for different books with the same title, such as a novel about a suburban Romeo and Juliet whose love is doomed by community custom2, a novel about a woman who was convicted of murder and is now struggling to adjust to a new life on the outside3, and a novel about a 10-year-old girl trying to understand how love works."
+    },
+    {
+      "id": 5,
+      "img": "https://tse2.mm.bing.net/th/id/OIP.O1tR-p_6PqFnU5XoZ0BDDgHaLE?w=124&h=186&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "title": "The Island",
+      "author": "A.McKinty",
+      "description": "Seven days,six Teenagers,one death secret.",
+      "review": "The Island is a novel by Peter Benchley, published in 1979 by Doubleday & Co.1It tells the story of Blair Maynard, a divorced journalist in New York City, who decides to write a story about the unexplained disappearance of yachts and other small boats in the Caribbean, hoping to debunk theories about the Bermuda Triangle.1This is not to be confused with the book of the same name by Armin Greder, which is the story of a crucial summer in the life of fifteen-year-old Wil Neuton, who becomes increasingly self-absorbed after moving to rural Wisconsin with his family."
+    }
+  ],
+  "Comedy": [
+    {
+      "id": 1,
+      "img": "https://tse3.mm.bing.net/th/id/OIP.rklZgw5vPLTglC3Sr1H2ewHaK9?w=202&h=300&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "title": "Good Omens",
+      "author": "T.Pratchett",
+      "description": "Heaven to read and will laugh like hell.",
+      "review": "According to the Nice and Accurate Prophecies of Agnes Nutter - the world's only totally reliable guide to the future - the world will end on a Saturday. Next Saturday, in fact. Just after tea...People have been predicting the end of the world almost from its very beginning, so it’s only natural to be sceptical when a new date is set for Judgement Day. This time though, the armies of Good and Evil really do appear to be massing. The four Bikers of the Apocalypse are hitting the road. But both the angels and demons – well, one fast-living demon and a somewhat fussy angel – would quite like the Rapture not to happen."
+    },
+    {
+      "id": 2,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLolBnoZtozLNOqkfDP73AkNMtX6NMdqvU8w&usqp=CAU",
+      "title": "Catch-22",
+      "author": "J.Heller",
+      "description": "Lord, what fools these mortals be .",
+      "review": "Fifty years after its original publication, Catch-22 remains a cornerstone of American literature and one of the funniest—and most celebrated—books of all time. In recent years it has been named to “best novels” lists by Time, Newsweek, the Modern Library, and the London Observer.Set in Italy during World War II, this is the story of the incomparable, malingering bombardier, Yossarian, a hero who is furious because thousands of people he has never met are trying to kill him. But his real problem is not the enemy—it is his own army, which keeps increasing the number of missions the men must fly to complete their service.  "
+    },
+    {
+      "id": 3,
+      "img": "https://tse4.mm.bing.net/th/id/OIP.FGPN10ftk7ZaIq2c25fRQwHaLG?w=202&h=303&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "title": "Lose Well",
+      "author": "Chris Gethard",
+      "description": "I dont go crazy,I am crazy fellow !!!.",
+      "review": "A laugh-out-loud, kick-in-the-pants self-help narrative for anyone who ever felt like they didn’t fit in or couldn’t catch a break—comedian and cult hero Chris Gethard shows us how to get over our fear of failure and start living life on our own terms. Let’s face it: we all want a seat at the cool table, a great job, and loads of money. But most of us won’t be able to achieve this widely accepted, black-or-white, definition of winning, which makes us feel like failures, that we’re destined to a life of loserdom. "
+    },
+    {
+      "id": 4,
+      "img": "https://tse2.mm.bing.net/th/id/OIP.y2T2HranrSbmTf9vjQL0hAHaLU?w=202&h=309&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "title": "Born a Crime",
+      "author": "Treverh Nova",
+      "description": "To forgot the night killing them a second time.",
+      "review": "Trevor Noah’s unlikely path from apartheid South Africa to the desk of The Daily Show began with a criminal act: his birth. Trevor was born to a white Swiss father and a black Xhosa mother at a time when such a union was punishable by five years in prison. Living proof of his parents’ indiscretion, Trevor was kept mostly indoors for the earliest years of his life, bound by the extreme and often absurd measures his mother took to hide him from a government that could, at any moment, steal him away."
+    },
+    {
+      "id": 5,
+      "img": "https://tse2.mm.bing.net/th/id/OIP.O1tR-p_6PqFnU5XoZ0BDDgHaLE?w=124&h=186&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "title": "Danny And Don",
+      "author": "Daniel",
+      "description": "Lord, what fools these mortals be.",
+      "review": "Danny's Own Story is a heartwarming and poignant novel that takes readers on an emotional journey through the life of its titular character, Danny. Written with a delicate touch by a skilled storyteller, this book invites readers to step into Danny's world and witness his trials, triumphs, and the incredible resilience of the human spirit."
+    }
+  ],
+  "Horror": [
+    {
+      "id": 1,
+      "img": "https://m.media-amazon.com/images/I/31PWJd6LsCL.SL500.jpg",
+      "title": "The Exocrist",
+      "author": "William Peter Blattly",
+      "description": "Heaven to read and will laugh like hell."
+    },
+    {
+      "id": 2,
+      "img": "https://m.media-amazon.com/images/I/51S12ntkIbL.SL500.jpg",
+      "title": "The Walking Dead",
+      "author": "Tony Moore",
+      "description": "Lord, what fools these mortals be ."
+    },
+    {
+      "id": 3,
+      "img": "https://m.media-amazon.com/images/I/51Gb9oZqRbS.SL500.jpg",
+      "title": "The Harvest",
+      "author": "Sara Clancy",
+      "description": "I dont go crazy,I am crazy fellow !!!."
+    },
+    {
+      "id": 4,
+      "img": "https://m.media-amazon.com/images/I/51Ki5cMF2ML.SL500.jpg",
+      "title": "Night Terror",
+      "author": "Riley Sagar",
+      "description": "To forgot the night killing them a second time."
+    },
+    {
+      "id": 5,
+      "img": "https://m.media-amazon.com/images/I/41afr6WGeNL.SL500.jpg",
+      "title": "Some will not Sleep",
+      "author": "Adam Nevil",
+      "description": "Lord, what fools these mortals be."
+    }
+  ]
+}
